@@ -1,4 +1,4 @@
-class Q9_SpringSeason {
+class SpringSeason {
     public static void main(String[] args) {
         int month = Integer.parseInt(args[0]);
         int day = Integer.parseInt(args[1]);

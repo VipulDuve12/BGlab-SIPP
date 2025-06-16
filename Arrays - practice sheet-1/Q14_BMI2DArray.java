@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Q14_BMI2DArray {
+class Q14_BMI2DArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of persons: ");

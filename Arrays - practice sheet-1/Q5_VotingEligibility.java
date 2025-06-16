@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Q5_VotingEligibility {
+class Q5_VotingEligibility {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] ages = new int[10];

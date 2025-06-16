@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Q10_PosNegEvenOddCompare {
+class Q10_PosNegEvenOddCompare {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] numbers = new int[5];

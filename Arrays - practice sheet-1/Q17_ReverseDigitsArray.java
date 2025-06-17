@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Q17_ReverseDigitsArray {
+class Q17_ReverseDigitsArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number: ");

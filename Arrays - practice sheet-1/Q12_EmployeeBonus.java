@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Q12_EmployeeBonus {
+ class Q12_EmployeeBonus {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double[] salaries = new double[10];

@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class MatrixAdvanced {
+class MatrixAdvanced {
     public static int[][] generateMatrix(int rows, int cols) {
         int[][] matrix = new int[rows][cols];
         for (int i = 0; i < rows; i++) {

@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class FriendsComparison {
+class FriendsComparison {
     public static int findYoungest(int[] ages) {
         int minIndex = 0;
         for (int i = 1; i < ages.length; i++) {

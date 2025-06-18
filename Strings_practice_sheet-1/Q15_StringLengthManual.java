@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Q15_StringLengthManual {
+class Q15_StringLengthManual {
     // Method to find length without using length()
     public static int getLength(String str) {
         int count = 0;

@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class EmployeeBonus {
+class EmployeeBonus {
     public static double[][] generateEmployeeData(int numEmployees) {
         double[][] data = new double[numEmployees][2];
         for (int i = 0; i < numEmployees; i++) {

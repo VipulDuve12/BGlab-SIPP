@@ -1,6 +1,5 @@
 import java.util.Random;
-
-public class Q16_StudentScorecard {
+class Q16_StudentScorecard {
     // Method to generate random 2-digit PCM scores for n students
     public static int[][] generateScores(int n) {
         int[][] scores = new int[n][3];

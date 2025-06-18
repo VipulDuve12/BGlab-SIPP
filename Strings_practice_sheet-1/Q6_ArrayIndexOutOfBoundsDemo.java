@@ -1,4 +1,4 @@
-public class Q6_ArrayIndexOutOfBoundsDemo {
+class Q6_ArrayIndexOutOfBoundsDemo {
     // Method to generate ArrayIndexOutOfBoundsException
     public static void generateException(String[] names) {
         // Accessing index out of bounds

@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Q10_IllegalArgumentDemo {
+class Q10_IllegalArgumentDemo {
     // Method to generate IllegalArgumentException
     public static void generateException(String text, int start, int end) {
         // This will throw StringIndexOutOfBoundsException (which is a subclass of IndexOutOfBoundsException)

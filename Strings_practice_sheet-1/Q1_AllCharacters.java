@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Q1_AllCharacters {
+class Q1_AllCharacters {
     // Method to return all characters in a string as a char array (without using toCharArray)
     public static char[] getChars(String str) {
         char[] chars = new char[str.length()];

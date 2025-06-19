@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Q9_ToLowerCaseCompare {
+class Q9_ToLowerCaseCompare {
     // Method to convert string to lowercase using charAt
     public static String toLowerCaseManual(String str) {
         StringBuilder sb = new StringBuilder();

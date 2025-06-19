@@ -1,6 +1,5 @@
 import java.util.Scanner;
-
-public class Q7_StringIndexOutOfBoundsDemo {
+class Q7_StringIndexOutOfBoundsDemo {
     // Method to generate StringIndexOutOfBoundsException
     public static void generateException(String text) {
         // Accessing index out of bounds

@@ -1,5 +1,5 @@
 import java.util.*;
-public class bookshelf{
+class bookshelf{
     static ArrayList<String> bookshelf = new ArrayList<>();
     // Addding books to arraylist
     public static void addBook(String title, String author){

@@ -1,5 +1,5 @@
 import java.util.*;
-public class flight_booking {
+class flight_booking {
     static String[] flights = {
         "Delhi to Mumbai",
         "Mumbai to Kolkata",

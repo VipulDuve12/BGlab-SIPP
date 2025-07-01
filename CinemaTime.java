@@ -6,8 +6,7 @@ class InvalidTimeFormatException extends Exception {
         super(message);
     }
 }
-
-public class CinemaTime {
+class CinemaTime {
     private final List<String> movieTitles = new ArrayList<>();
     private final List<String> showTimes = new ArrayList<>();
 

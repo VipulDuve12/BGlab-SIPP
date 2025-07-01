@@ -1,5 +1,5 @@
 import java.util.*;
-class onlinescore {
+public class onlinescore {
     // static List<Integer> li = new ArrayList<>();
     // static List<Integer> li1 = new ArrayList<>();
     // static List<Integer> li2 = new ArrayList<>();

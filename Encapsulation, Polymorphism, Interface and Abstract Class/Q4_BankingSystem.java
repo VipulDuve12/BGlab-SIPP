@@ -1,5 +1,3 @@
-// Q4_BankingSystem.java
-// Q4: Banking System
 abstract class BankAccount {
     private String accountNumber;
     private String holderName;

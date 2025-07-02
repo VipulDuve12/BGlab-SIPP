@@ -1,6 +1,3 @@
-// Q1_EmployeeManagementSystem.java
-// Employee Management System Implementation
-
 abstract class Employee {
     private int employeeId;
     private String name;

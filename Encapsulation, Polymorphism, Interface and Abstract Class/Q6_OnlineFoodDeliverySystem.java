@@ -1,5 +1,3 @@
-// Q6_OnlineFoodDeliverySystem.java
-// Q6: Online Food Delivery System
 abstract class FoodItem {
     private String itemName;
     private double price;

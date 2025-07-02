@@ -1,5 +1,3 @@
-// Q5_LibraryManagementSystem.java
-// Q5: Library Management System
 abstract class LibraryItem {
     private int itemId;
     private String title;

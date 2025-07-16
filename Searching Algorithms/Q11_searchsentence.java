@@ -1,5 +1,3 @@
-// Q11_searchsentence.java
-// Search for a Specific Word in a List of Sentences
 public class Q11_searchsentence {
     public static String findSentence(String[] sentences, String word) {
         for (String sentence : sentences) {
